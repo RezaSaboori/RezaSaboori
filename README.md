@@ -1,6 +1,6 @@
 # Reza Saboori Amleshi
 
-![Profile Banner](raw.githubusercontent.com/RezaSaboori/files/blob/main/Reza%20Saboori%20Amleshi.png) 
+![Profile Banner](https://github.com/RezaSaboori/files/blob/main/Reza%20Saboori%20Amleshi.png) 
 
 ## 👋 Welcome to My GitHub Profile
 
