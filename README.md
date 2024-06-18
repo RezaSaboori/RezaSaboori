@@ -1,6 +1,6 @@
 # Reza Saboori Amleshi
 
-![Profile Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+Reza+Saboori+Amleshi's+GitHub)
+![Profile Banner](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
 
 ## 👋 Welcome to My GitHub Profile
 
