@@ -1,6 +1,6 @@
 # Reza Saboori Amleshi
 
-![Profile Banner](https://drive.google.com/file/d/1MPkAPjRCVirEt5C4QuqV6ZJzw3QIwPwP/view?usp=share_link) 
+![Profile Banner](https://github.com/RezaSaboori/files/blob/main/Reza%20Saboori%20Amleshi.png) 
 
 ## 👋 Welcome to My GitHub Profile
 
