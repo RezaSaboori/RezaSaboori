@@ -4,7 +4,7 @@
 
 ## 👋 Welcome to My GitHub Profile
 
-Hi, I'm **Reza Saboori Amleshi**, a medical professional and AI enthusiast with a strong background in artificial intelligence, machine learning, and deep learning. I graduated from Kerman University of Medical Sciences, where I developed a passion for integrating technology with healthcare. 
+Hi, I'm **Reza**, a medical professional and AI enthusiast with a strong background in artificial intelligence, machine learning, and deep learning. I graduated from Kerman University of Medical Sciences, where I developed a passion for integrating technology with healthcare. 
 
 ![AI & Medical Integration](https://via.placeholder.com/1200x400.png?text=AI+%26+Medical+Integration)
 
